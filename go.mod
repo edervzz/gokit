@@ -1,3 +1,3 @@
-module github.com/edervzz/toolkitgo
+module github.com/edervzz/gokit
 
-go 1.22.3
+go 1.22.2
